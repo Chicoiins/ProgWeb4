@@ -8,7 +8,7 @@
 <body>
     <?php
     echo '<img src="https://picsum.photos/500/600" alt="imagen de exemplo"></br>';
-    print "<h1>Olá Mundo!<h1> ";
+    print "<h1>Olá Mundo!<h1>";
     ?>
 </body>
 </html>
