@@ -12,8 +12,8 @@
     echo '<h3><a href="https://www.w3schools.com/">W3C</a></h3>';
     echo '<h3><a href="https://www.google.com.br/?hl=pt-BR">Google</a></h3>';
     print '<h1>URLs relativas</h1>';
-    echo '<h3><a href=""></a></h3>';
-    echo '<h3><a href=""></a></h3>';
+    echo '<h3><a href="html/teste1.html">HTML 1</a></h3>';
+    echo '<h3><a href="html/teste2.html">HTML 2</a></h3>';
     ?>
 </body>
 </html>
